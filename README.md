@@ -4,7 +4,7 @@ A clean, responsive developer portfolio built with **React** and **Tailwind CSS*
 
 ## 🚀 Live Demo
 
-[View Portfolio](https://your-portfolio-url.com)
+[View Portfolio](https://github.com/egidee/my-portfolio.git)
 
 ## 🛠️ Tech Stack
 
