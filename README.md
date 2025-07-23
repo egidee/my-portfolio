@@ -23,7 +23,7 @@ A clean, responsive developer portfolio built with **React** and **Tailwind CSS*
 ## 📁 Run Locally
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/egidee/portfolio.git
 cd portfolio
 npm install
 npm start
